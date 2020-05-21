@@ -25,9 +25,6 @@ h3 {
     text-shadow: 0 0 4px white, 2px -13px 15px #f20;
 }
 
-/*Konec hlavního nastavení*/
-
-/*Obsah*/
 .container {
     width: 890px;
     height: 300px;
@@ -35,6 +32,10 @@ h3 {
     margin-top: 100px;
     text-align: center;
 }
+/*Konec hlavního nastavení*/
+
+/*Obsah*/
+
 
 .ruda {
     color: #F70D0D;
