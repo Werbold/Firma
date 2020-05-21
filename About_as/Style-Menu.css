@@ -48,6 +48,6 @@
     display: block;
 }
 
-.active{
+#active{
     background-color: white;
 }
