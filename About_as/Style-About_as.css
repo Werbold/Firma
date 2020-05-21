@@ -1,0 +1,59 @@
+﻿body {
+    background-image: url(images/Binar.jpg);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    color: lightskyblue;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h4, h5, h6, h7, h8, h2 {
+    font-weight: normal;
+    font-size: 30px;
+}
+
+h3 {
+    color: steelblue;
+    text-shadow: 0 0 4px white, 2px -13px 15px #f20;
+}
+
+.container {
+    width: 890px;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.ruda {
+    color: #02F8A2;
+}
+
+#css3{
+    position: relative;
+}
+
+.css3 {
+    width: 50%;
+    position: absolute;
+    bottom: 250px;
+    margin-left: 8px;
+}
+
+#html5 {
+    position: relative;
+}
+
+.html5 {
+    width: 50%;
+    position: absolute;
+    top: 715px;
+    margin-left: 8px;
+}
