@@ -1,5 +1,6 @@
-﻿body {
-    background-image: url(images/Binar.jpg);
+﻿/*Hlavní nastavení*/
+body {
+    background-image: url(images/Bcg1.jpg);
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 10px;
@@ -24,6 +25,9 @@ h3 {
     text-shadow: 0 0 4px white, 2px -13px 15px #f20;
 }
 
+/*Konec hlavního nastavení*/
+
+/*Obsah*/
 .container {
     width: 890px;
     height: 300px;
@@ -36,14 +40,17 @@ h3 {
     color: #02F8A2;
 }
 
-#css3{
+/*Obrázky*/
+/*Začátek pozicování obrazků*/
+
+#css3 {
     position: relative;
 }
 
 .css3 {
     width: 50%;
     position: absolute;
-    bottom: 250px;
+    bottom: 275px;
     margin-left: 8px;
 }
 
@@ -54,6 +61,35 @@ h3 {
 .html5 {
     width: 50%;
     position: absolute;
-    top: 715px;
+    top: 789px;
     margin-left: 8px;
 }
+
+#php {
+    position: relative;
+}
+
+.php {
+    width: 50%;
+    position: absolute;
+    margin-left: 8px;
+    left: 570px;
+    top: -33px;
+}
+
+#js {
+    position: relative;
+}
+
+.js {
+    width: 50%;
+    position: absolute;
+    margin-left: 8px;
+    bottom: 11px;
+    left: 570px;
+}
+
+/*Konec pozicování obrázků*/
+
+
+/*Konec obsahu*/
