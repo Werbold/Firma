@@ -29,19 +29,19 @@
     z-index: 1;
 }
 
-    /* Links inside the dropdown */
+    /* Links inside the dropdown #2980B9 */
     .dropdown-content a {
         color: black;
         padding: 12px 16px;
         text-decoration: none;
         display: block;
-        background: #2980B9;
+        background: #3498DB;
     }
 
         /* Change color of dropdown links on hover */
-        .dropdown-content a:hover {
-            background-color: #ddd
-        }
+.dropdown-content a:hover {
+    background-color: #ddd
+}
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {
