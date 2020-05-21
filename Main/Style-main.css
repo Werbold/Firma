@@ -1,0 +1,45 @@
+﻿body {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    color: lightskyblue;
+    background-image: url(images/bcg1.jpg);
+}
+
+a {
+    text-decoration: none;
+    color: midnightblue;
+}
+
+a:hover{
+    cursor: pointer;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h4, h5, h6, h7, h8, h2 {
+    font-weight: normal;
+    font-size: 30px;
+}
+
+h3 {
+    color: steelblue;
+    text-shadow: 0 0 4px white, 2px -13px 15px #f20;
+}
+
+.container{
+    width: 960px;
+    height: 300px;
+    padding-top: 2px;
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+}
